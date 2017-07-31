@@ -73,6 +73,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b6242ab11905144aa58a24a58631959, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_Score: 0
   nComboTime: 120
 --- !u!222 &222813288522433114
 CanvasRenderer:
